@@ -1,0 +1,6 @@
+2:I[9781,["173","static/chunks/173-652af3882ca016f4.js","185","static/chunks/app/layout-7fe01a4bc7b88bfe.js"],"NavigationProvider"]
+3:I[1695,["173","static/chunks/173-652af3882ca016f4.js","185","static/chunks/app/layout-7fe01a4bc7b88bfe.js"],"Sidebar"]
+4:I[2619,["173","static/chunks/173-652af3882ca016f4.js","185","static/chunks/app/layout-7fe01a4bc7b88bfe.js"],"MainContent"]
+0:["5ZX6JUQBpNX2OiihLIALR",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1",null],null],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}]]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4bc6566c43014a88.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L5"]]]]]
+5:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"ANNA ZOE LUNA EBERLE"}],["$","meta","3",{"name":"description","content":"Portfolio of ANNA ZOE LUNA EBERLE"}],["$","link","4",{"rel":"icon","href":"/favicon.ico"}]]
+1:null
